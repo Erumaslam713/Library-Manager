@@ -1,34 +1,35 @@
+
 [
   {
-    "title":"Python Crash Course",
-    "author":"Eric Mathes",
+    "title": "Python Crash Course",
+    "author": "Eric Mathes",
     "publication_year": 2019,
-    "genre":"Programming",
+    "genre": "Programming",
     "read_status": false,
-    "added_data:"2025-04-20 07:18:32"
+    "added_data": "2025-04-20 07:18:32"
   },
   {
-     "title":"Automate the boring stuff with python",
-    "author":"Ayesha",
+    "title": "Automate the boring stuff with python",
+    "author": "Ayesha",
     "publication_year": 2014,
-    "genre":"Programming",
+    "genre": "Programming",
     "read_status": true,
-    "added_data:"2025-04-20 09:36:45"
+    "added_data": "2025-04-20 09:36:45"
   },
   {
-     "title":"Fluent Python",
-    "author":"Jaweria",
+    "title": "Fluent Python",
+    "author": "Jaweria",
     "publication_year": 2017,
-    "genre":"Programming",
+    "genre": "Programming",
     "read_status": false,
-    "added_data:"2025-04-20 12:16:23"
+    "added_data": "2025-04-20 12:16:23"
   },
   {
-     "title":"Effective Python",
-    "author":"Saira",
+    "title": "Effective Python",
+    "author": "Saira",
     "publication_year": 2014,
-    "genre":"Programming",
+    "genre": "Programming",
     "read_status": true,
-    "added_data:"2025-04-20 02:56:13"
+    "added_data": "2025-04-20 02:56:13"
   }
 ]

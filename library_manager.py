@@ -166,7 +166,6 @@ def search_books(search_term, search_by):
             results.append(book)
         elif search_by == "Genre" and search_term in book['genre'].lower():
             results.append(book)
-    
     st.session_state.search_results = results
 
 # Calculate library statistics
@@ -443,4 +442,4 @@ elif st.session_state.current_view == "stats":
 
 # Footer
 st.markdown("---")
-st.markdown("© 2025 Mehak Alamgir Personal Library Manager | Created with Love and Streamlit", unsafe_allow_html=True)
+st.markdown("© 2025 Erum Aslam Personal Library Manager | Created with Love and Streamlit", unsafe_allow_html=True)
